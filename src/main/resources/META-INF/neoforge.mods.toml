@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="vinegar"
+version="${mod_version}"
+displayName="Vinegar"
+authors="Sakalti"
+description='''
+A utility and wrapper library for NeoForge.
+'''
